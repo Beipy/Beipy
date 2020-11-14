@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**Beipy/Beipy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Beipy
+#### I want to be a fish, with only seven seconds of memory, without any trouble
+![I want to be a fish, with only seven seconds of memory, without any trouble](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+I am a full stack developer and I come from China. Besides development, I also like traveling and taking photos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: VUE JS / REACT / JS / HTML / CSS / SASS
+
+- 🔭 I’m currently working on BeipyCss_reuse 
+- 🌱 I’m currently learning data processing 
+- 💬 Ask me about Vue 、react and Php 
+- 📫 How to reach me: beipy0@163.com 
+- ⚡ Fun fact: Buy me a cup of coffee 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Beipy)  
+
+![Profile views](https://gpvc.arturio.dev/Beipy)  
