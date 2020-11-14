@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi 👋, I'm Beipy</h2>
 <h3 align="center">I want to be a fish, with only seven seconds of memory, without any trouble</h3>
-<p align="left">
+<p align="center">
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sinaweibo.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
