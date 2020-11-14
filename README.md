@@ -1,14 +1,16 @@
 
 
-<h1 align="center">Hi 👋, I'm Beipy</h1>
-<p align="center">
+<h2 align="center">Hi 👋, I'm Beipy</h2>
+<h3 align="center">I want to be a fish, with only seven seconds of memory, without any trouble</h3>
+<p align="left">
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sinaweibo.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+ ![Profile views](https://gpvc.arturio.dev/Beipy)  
 </p>
-<h3 align="center">I want to be a fish, with only seven seconds of memory, without any trouble</h3>
 
-![Profile views](https://gpvc.arturio.dev/Beipy)  
+
+
 #### 
 
 I am a full stack developer and I come from China. Besides development, I also like traveling and taking photos
