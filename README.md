@@ -21,9 +21,6 @@ I am a full stack developer and I come from China. Besides development, I also l
 - 💬 Ask me about Vue 、react and Php 
 - 📫 How to reach me: beipy0@163.com 
 - ⚡ Fun fact: Buy me a cup of coffee 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Beipy&show_icons=true)  
-
 <p align="left">
 Skills:
 <img src=https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg alt=vuejs width="40" height="40"/> 
@@ -38,8 +35,10 @@ Skills:
 <img src=https://devicons.github.io/devicon/devicon.git/icons/php/php-plain.svg alt=php width="40" height="40"/> 
 <img src=https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-plain.svg alt=php width="40" height="40"/> 
 </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Beipy&show_icons=true)  
+
+
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beipy&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
