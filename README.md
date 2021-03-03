@@ -32,7 +32,7 @@ Skills:
 <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/> 
 <img src=https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg alt=postgresql width="40" height="40"/>
 
-<img src=https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg alt=sass width="40" height="40"/> 
+<img src=https://devicons.github.io/devicon/devicon.git/icons/scss/scss-original.svg alt=sass width="40" height="40"/> 
 <img src=https://devicons.github.io/devicon/devicon.git/icons/php/php-plain.svg alt=php width="40" height="40"/> 
 <img src=https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-plain.svg alt=php width="40" height="40"/> 
 </p>
