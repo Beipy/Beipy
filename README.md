@@ -7,7 +7,7 @@
 
 </p>
 
-![Profile views](https://gpvc.arturio.dev/Beipy)  
+
 
 <p align="left">
 I am a full stack developer and I come from China. Besides development, I also like traveling and taking photos
