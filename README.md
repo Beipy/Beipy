@@ -33,7 +33,7 @@ Skills:
 <img src="https://img.shields.io/badge/-sass-192133?style=flat&logo=sass&logoColor=white" alt="sass" /> 
 <img src="https://img.shields.io/badge/-MySQL-192133?style=flat&logo=mysql&logoColor=white" alt="MySQL" /> 
 <img src="https://img.shields.io/badge/-Redis-192133?style=flat&logo=redis&logoColor=white" alt="Redis" /> 
-<img src="https://img.shields.io/badge/-Golang-192133?style=flat&logo=Golang&logoColor=white" alt="Redis" /> 
+<img src="https://img.shields.io/badge/-Golang-192133?style=flat&logo=Go&logoColor=white" alt="Redis" /> 
 
 </p>
 <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Beipy&show_icons=true">
