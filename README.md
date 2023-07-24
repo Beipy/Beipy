@@ -16,7 +16,7 @@ I am a full stack developer and I come from China. Besides development, I also l
 - 🔭 I’m currently working on  Cultivate immortality
 - 🌱 I’m currently learning data processing 
 - 💬 Ask me about Vue 、React and Php 
-- 📫 How to reach me:  <img height="20"  src="https://img.shields.io/badge/-beipy0@163.com-fff?style=flat&logo=gMail&logoColor=E71F1A" />
+- 📫 How to reach me:  <img height="20"  src="https://img.shields.io/badge/-zyzbeipy@gmail.com-fff?style=flat&logo=gMail&logoColor=E71F1A" />
 - ⚡ Fun fact: Buy me a cup of coffee 
 </p>
 
