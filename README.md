@@ -23,6 +23,7 @@ I am a full stack developer and I come from China. Besides development, I also l
 <p>
 Skills:
 <img src="https://img.shields.io/badge/-Python-192133?style=flat&logo=python&logoColor=white" alt="Python" /> 
+<img src="https://img.shields.io/badge/-Python-192133?style=flat&logo=node&logoColor=white" alt="node" /> 
 <img src="https://img.shields.io/badge/-Vue.js-192133?style=flat&logo=vue.js&logoColor=white" alt="vue" /> 
 <img src="https://img.shields.io/badge/-react-192133?style=flat&logo=react&logoColor=white" alt="react" /> 
 <img src="https://img.shields.io/badge/-php-192133?style=flat&logo=php&logoColor=white" alt="PHP" /> 
